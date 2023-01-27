@@ -8,7 +8,7 @@ port = int(input("digite a porta:"))
 
 while True:
        while 1:
-              if time.time() > timeout:
+              if .time() > timeout:
                   break
               else:
                   pass
